@@ -26,3 +26,7 @@ main p {
 main h2 {
     color: darkblue;
 }
+
+footer{
+    height: 250px;
+}
