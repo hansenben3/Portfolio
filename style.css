@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+  }
+
 .center-text{
     text-align: center;
 }
@@ -10,4 +14,15 @@
 .light-background{
     background-color: lightslategrey;
     color: black;
+}
+
+p, h1, h2, h3, li, ol, ul {
+    text-align: center;
+}
+
+main p {
+    size: 16px;
+}
+main h2 {
+    color: darkblue;
 }
