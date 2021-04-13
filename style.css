@@ -30,3 +30,7 @@ main h2 {
 footer{
     height: 250px;
 }
+
+main li, ul {
+    display: inline-block
+}
