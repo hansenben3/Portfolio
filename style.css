@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
-  }
+    padding-left: 400px;
+    padding-right: 400px;
 
 .center-text{
     text-align: center;
@@ -33,4 +34,8 @@ footer{
 
 main li, ul {
     display: inline-block
+}
+
+br{
+    background-color: black;
 }
