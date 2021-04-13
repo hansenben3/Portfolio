@@ -1,7 +1,13 @@
+
+
+
+
+
+
+
 * {
     box-sizing: border-box;
-    padding-left: 400px;
-    padding-right: 400px;
+}
 
 .center-text{
     text-align: center;
@@ -30,10 +36,6 @@ main h2 {
 
 footer{
     height: 250px;
-}
-
-main li, ul {
-    display: inline-block
 }
 
 br{
