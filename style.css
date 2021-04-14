@@ -29,7 +29,7 @@ p, h1, h2, h3, li, ol, ul {
 }
 
 main p {
-    size: 16px;
+    size: 20px;
 }
 main h2 {
     color: darkblue;
@@ -46,3 +46,8 @@ br{
 ul, ol {
     position: absolute;
 }
+
+h3 {
+    size: 30px;
+}
+
