@@ -42,3 +42,7 @@ footer{
 br{
     background-color: black;
 }
+
+ul, ol {
+    position: absolute;
+}
