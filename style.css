@@ -44,10 +44,18 @@ br{
 }
 
 ul, ol {
+    text-align: center;
     position: absolute;
 }
 
 h3 {
     size: 30px;
+    color: crimson;
 }
+
+header h1 {
+    color: royalblue;
+}
+
+
 
