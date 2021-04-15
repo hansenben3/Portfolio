@@ -34,6 +34,8 @@ main h2 {
 
 footer{
     height: 250px;
+    vertical-align: middle;
+    position: relative;
 }
 
 br{
@@ -42,6 +44,7 @@ br{
 
 ul, ol {
     text-align: center;
+    list-style-position: inside;
 }
 
 h3 {
@@ -53,8 +56,17 @@ header h1 {
     color: royalblue;
 }
 
-main {
-    margin-left: 100px;
+.center-vert {
+    text-align: center;
+    vertical-align: middle;
+}
+
+header {
+    position: relative;
+}
+
+footer p{
+vertical-align: middle;
 }
 
 
