@@ -81,3 +81,19 @@ img {
     padding-right: 10px;
     padding-bottom: 10px;
 }
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: indigo;
+}
