@@ -23,6 +23,7 @@
 
 p, h1, h2, h3, li, ol, ul {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 main p {
@@ -36,10 +37,6 @@ footer{
     height: 250px;
     vertical-align: middle;
     position: relative;
-}
-
-br{
-    background-color: black;
 }
 
 ul, ol {
@@ -66,7 +63,10 @@ header {
 }
 
 footer p{
-vertical-align: middle;
+    vertical-align: middle;
 }
 
-
+hr{
+    width: 80%;
+    border-top: 2px solid white;
+}
