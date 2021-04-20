@@ -14,6 +14,10 @@
 .dark-background{
     background-color: black;
     color: blanchedalmond;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 .light-background{
@@ -69,4 +73,11 @@ footer p{
 hr{
     width: 80%;
     border-top: 2px solid white;
+}
+
+img {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
 }
