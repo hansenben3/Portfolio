@@ -10,7 +10,7 @@
     text-align: center;
     vertical-align: center;
 }
-
+/* makes the backround dark with a light font*/
 .dark-background{
     background-color: black;
     color: blanchedalmond;
@@ -19,7 +19,7 @@
     margin-bottom: 10px;
     margin-right: 10px;
 }
-
+/* makes the background light with dark text*/
 .light-background{
     background-color: lightslategrey;
     color: black;
@@ -31,7 +31,7 @@ p, h1, h2, h3, li, ol, ul {
 }
 
 main p {
-    size: 20px;
+    font-size: 20px;
 }
 main h2 {
     color: darkblue;
@@ -49,8 +49,8 @@ ul, ol {
 }
 
 h3 {
-    size: 30px;
-    color: crimson;
+    font-size: 30px;
+    color: rgb(15, 57, 65);
 }
 
 header h1 {
