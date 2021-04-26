@@ -5,7 +5,7 @@
 * {
     box-sizing: border-box;
 }
-
+/* centers the text class*/
 .center-text{
     text-align: center;
     vertical-align: center;
