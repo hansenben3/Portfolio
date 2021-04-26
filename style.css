@@ -14,10 +14,6 @@
 .dark-background{
     background-color: black;
     color: blanchedalmond;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
 }
 /* makes the background light with dark text*/
 .light-background{
@@ -38,9 +34,14 @@ main h2 {
 }
 
 footer{
-    height: 250px;
     vertical-align: middle;
     position: relative;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    padding-top: 50px;
 }
 
 ul, ol {
@@ -64,6 +65,10 @@ header h1 {
 
 header {
     position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 footer p{
@@ -96,4 +101,9 @@ a:hover {
 
 a:active {
     color: indigo;
+}
+
+li {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
