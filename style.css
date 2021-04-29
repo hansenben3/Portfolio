@@ -17,7 +17,7 @@
 }
 /* makes the background light with dark text*/
 .light-background{
-    background-color: lightslategrey;
+    background-color: rgb(41, 47, 53);
     color: black;
 }
 
@@ -88,11 +88,11 @@ img {
 }
 
 a:link {
-    color: rgb(15, 235, 224);
+    color: blue;
 }
 
 a:visited {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 a:hover {
